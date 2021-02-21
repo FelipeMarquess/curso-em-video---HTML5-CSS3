@@ -1,0 +1,22 @@
+#principal {
+    background-color: #808080;
+}
+
+#verde {
+    background-color: #008000;
+    color: #06470a;
+}
+
+#amarelo{
+    background-color: #EEAD2D;
+    color: #8f640d;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
